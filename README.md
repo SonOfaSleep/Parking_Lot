@@ -1,10 +1,10 @@
 So, this is a third project from JetBrains Academy kotlin basic course: https://hyperskill.org/projects/75
 
-Here is created a parking lot management program that keeps track of vacant spots and parked cars.
+Here is created parking lot management program that keeps track of vacant spots and parked cars.
 
 Input commands are as follows:
-- Create 3 ( Creating a lot with desired number of parking slots )
-- Park VN-2558-MX Red ( Parking a car with acesseble car number and it's color on a vacant place )
+- create 3 ( Creating a lot with desired number of parking slots )
+- park VN-2558-MX Red ( Parking a car with acesseble car number and it's color on a vacant place )
 - leave 3 ( Frees the specified parking slot )
 - status ( Well you know =) )
 - reg_by_color Red ( Search all car numbers of specified color )
