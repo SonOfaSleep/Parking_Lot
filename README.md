@@ -1,6 +1,6 @@
 So, this is a third project from JetBrains Academy kotlin basic course: https://hyperskill.org/projects/75
 
-Here is created parking lot management program that keeps track of vacant spots and parked cars.
+Here is parking lot management program that keeps track of vacant spots and parked cars.
 
 Input commands are as follows:
 - create 3 ( Creating a lot with desired number of parking slots )
