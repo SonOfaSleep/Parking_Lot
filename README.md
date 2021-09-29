@@ -8,6 +8,6 @@ Input commands are as follows:
 - leave 3 ( Frees the specified parking slot )
 - status ( Well you know =) )
 - reg_by_color Red ( Search all car numbers of specified color )
-- spot_by_color Red ( Search all spots of cars with mutching color )
+- spot_by_color Red ( Search all spots of cars with matching color )
 - spot_by_reg VN-2558-MX ( Search of car spot by it's plate number )
 - exit ( See Ya! )
